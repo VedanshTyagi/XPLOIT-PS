@@ -4,6 +4,11 @@
 
 The Chocolate DOOM source code folder with the WAD file included. You may use this directly or download your own copy of Chocolate DOOM — either works. Build and compile the project to get it running before you start.
 
+**To run the provided game out-of-the-box (Linux):**
+```bash
+./src/chocolate-doom -iwad freedoom1.wad
+```
+
 ---
 
 ## The Task
